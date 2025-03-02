@@ -52,6 +52,14 @@ The **Copper Project OOP** is a Windows Forms application designed to manage var
 
 1. **Login**:
    - Use the provided sample credentials to log in as different roles (e.g., StoreKeeper, ProductManager).
+   - **Sample Credentials**:
+     | Username          | Password  | User_Role       |
+     |-------------------|-----------|-----------------|
+     | سیما مجتبوی       | password  | StoreKeeper     |
+     | علی آشنا          | password  | ProductManager  |
+     | زامیاد ذاکری      | password  | SalesManager    |
+     | بابک معین         | password  | ProductOperator |
+     | مهران رحمانیان    | password  | QualityChecker  |
 2. **Customer Panel**:
    - Customers can place orders and view their order history.
 3. **Production Panel**:
