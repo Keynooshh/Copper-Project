@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\copper project oop\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\copper project oop\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\storekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\salemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\salemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\copper project oop\\salemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\salemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\qualitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\qualitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\copper project oop\\qualitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\qualitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\productoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\productoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\copper project oop\\productoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\productoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|c:\\users\\keynoosh\\source\\repos\\copper project oop\\copper project oop\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\copper project oop\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F07814E-9B3F-4F78-9360-D4EE450917AB}|Copper Project OOP\\Copper Project OOP.csproj|solutionrelative:copper project oop\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "storeKeeper.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\storeKeeper.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\storeKeeper.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\storeKeeper.cs",
+              "RelativeToolTip": "Copper Project OOP\\storeKeeper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:58:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "storeKeeper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\storeKeeper.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\storeKeeper.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\storeKeeper.cs [Design]*",
+              "RelativeToolTip": "Copper Project OOP\\storeKeeper.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:58:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "saleManage.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\saleManage.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\saleManage.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\saleManage.cs",
+              "RelativeToolTip": "Copper Project OOP\\saleManage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:57:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "saleManage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\saleManage.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\saleManage.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\saleManage.cs [Design]*",
+              "RelativeToolTip": "Copper Project OOP\\saleManage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:57:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "qualityCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\qualityCheck.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\qualityCheck.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\qualityCheck.cs",
+              "RelativeToolTip": "Copper Project OOP\\qualityCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:56:46.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "qualityCheck.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\qualityCheck.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\qualityCheck.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\qualityCheck.cs [Design]*",
+              "RelativeToolTip": "Copper Project OOP\\qualityCheck.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:56:45.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "productOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productOperator.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\productOperator.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productOperator.cs",
+              "RelativeToolTip": "Copper Project OOP\\productOperator.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAIwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:56:16.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "productOperator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productOperator.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\productOperator.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productOperator.cs [Design]",
+              "RelativeToolTip": "Copper Project OOP\\productOperator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:56:15.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "productManage.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productManage.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\productManage.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productManage.cs",
+              "RelativeToolTip": "Copper Project OOP\\productManage.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwE8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:54:48.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "productManage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productManage.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\productManage.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\productManage.cs [Design]",
+              "RelativeToolTip": "Copper Project OOP\\productManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:54:46.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logIn.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\logIn.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\logIn.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\logIn.cs",
+              "RelativeToolTip": "Copper Project OOP\\logIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:52:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "costumer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\costumer.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\costumer.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\costumer.cs [Design]*",
+              "RelativeToolTip": "Copper Project OOP\\costumer.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:59:06.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "costumer.cs",
+              "DocumentMoniker": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\costumer.cs",
+              "RelativeDocumentMoniker": "Copper Project OOP\\costumer.cs",
+              "ToolTip": "C:\\Users\\Keynoosh\\source\\repos\\Copper Project OOP\\Copper Project OOP\\costumer.cs",
+              "RelativeToolTip": "Copper Project OOP\\costumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:59:08.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
